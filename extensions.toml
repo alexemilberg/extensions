@@ -1173,7 +1173,7 @@ version = "0.0.1"
 
 [curzed-theme]
 submodule = "extensions/curzed-theme"
-version = "0.1.0"
+version = "0.1.1"
 
 [custom-code-folding-lsp]
 submodule = "extensions/custom-code-folding-lsp"
